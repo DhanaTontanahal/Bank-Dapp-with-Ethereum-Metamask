@@ -35,16 +35,16 @@ Check below screenshots for understanding.
 #https://rinkeby.etherscan.io/
 
 
-![Optional Text](![alt tag](https://github.com/DhanaTontanahal/Bank-Dapp-with-Ethereum-Metamask/metamask.PNG))
+(![alt tag](https://github.com/DhanaTontanahal/Bank-Dapp-with-Ethereum-Metamask/blob/master/metamask.PNG))
 
 
 
-![Optional Text](![alt tag](https://github.com/DhanaTontanahal/Bank-Dapp-with-Ethereum-Metamask/remix config.PNG))
+(![alt tag](https://github.com/DhanaTontanahal/Bank-Dapp-with-Ethereum-Metamask/remix config.PNG))
 
 
 
 
-![Optional Text](![alt tag](https://github.com/DhanaTontanahal/Bank-Dapp-with-Ethereum-Metamask/rinkeby-transaction.PNG))
+(![alt tag](https://github.com/DhanaTontanahal/Bank-Dapp-with-Ethereum-Metamask/rinkeby-transaction.PNG))
 
 
 
