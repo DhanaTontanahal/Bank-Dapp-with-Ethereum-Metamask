@@ -44,7 +44,7 @@ Check below screenshots for understanding.
 
 
 
-(![alt tag](https://github.com/DhanaTontanahal/Bank-Dapp-with-Ethereum-Metamask/rinkeby-transaction.PNG))
+(![alt tag](https://github.com/DhanaTontanahal/Bank-Dapp-with-Ethereum-Metamask/blob/master/rinkeby-transaction.PNG))
 
 
 
