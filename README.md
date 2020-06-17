@@ -39,7 +39,7 @@ Check below screenshots for understanding.
 
 
 
-(![alt tag](https://github.com/DhanaTontanahal/Bank-Dapp-with-Ethereum-Metamask/remix config.PNG))
+(![alt tag](https://github.com/DhanaTontanahal/Bank-Dapp-with-Ethereum-Metamask/blob/master/remix%20config.PNG))
 
 
 
